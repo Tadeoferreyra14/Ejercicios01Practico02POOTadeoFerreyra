@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ejercicios01Practico02.Consola/1.0.0": {
+        "dependencies": {
+          "Ejercicios01Practico02POO.BL": "1.0.0"
+        },
+        "runtime": {
+          "Ejercicios01Practico02.Consola.dll": {}
+        }
+      },
+      "Ejercicios01Practico02POO.BL/1.0.0": {
+        "runtime": {
+          "Ejercicios01Practico02POO.BL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicios01Practico02.Consola/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ejercicios01Practico02POO.BL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

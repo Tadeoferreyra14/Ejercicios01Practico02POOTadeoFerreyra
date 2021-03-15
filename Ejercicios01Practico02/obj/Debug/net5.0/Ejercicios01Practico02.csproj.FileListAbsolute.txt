@@ -1,0 +1,16 @@
+D:\visualtarea\Ejercicios01Practico02\Ejercicios01Practico02\obj\Debug\net5.0\Ejercicios01Practico02.csprojAssemblyReference.cache
+D:\visualtarea\Ejercicios01Practico02\Ejercicios01Practico02\obj\Debug\net5.0\Ejercicios01Practico02.GeneratedMSBuildEditorConfig.editorconfig
+D:\visualtarea\Ejercicios01Practico02\Ejercicios01Practico02\obj\Debug\net5.0\Ejercicios01Practico02.AssemblyInfoInputs.cache
+D:\visualtarea\Ejercicios01Practico02\Ejercicios01Practico02\obj\Debug\net5.0\Ejercicios01Practico02.AssemblyInfo.cs
+D:\visualtarea\Ejercicios01Practico02\Ejercicios01Practico02\obj\Debug\net5.0\Ejercicios01Practico02.csproj.CoreCompileInputs.cache
+D:\visualtarea\Ejercicios01Practico02\Ejercicios01Practico02\bin\Debug\net5.0\Ejercicios01Practico02.exe
+D:\visualtarea\Ejercicios01Practico02\Ejercicios01Practico02\bin\Debug\net5.0\Ejercicios01Practico02.deps.json
+D:\visualtarea\Ejercicios01Practico02\Ejercicios01Practico02\bin\Debug\net5.0\Ejercicios01Practico02.runtimeconfig.json
+D:\visualtarea\Ejercicios01Practico02\Ejercicios01Practico02\bin\Debug\net5.0\Ejercicios01Practico02.runtimeconfig.dev.json
+D:\visualtarea\Ejercicios01Practico02\Ejercicios01Practico02\bin\Debug\net5.0\Ejercicios01Practico02.dll
+D:\visualtarea\Ejercicios01Practico02\Ejercicios01Practico02\bin\Debug\net5.0\ref\Ejercicios01Practico02.dll
+D:\visualtarea\Ejercicios01Practico02\Ejercicios01Practico02\bin\Debug\net5.0\Ejercicios01Practico02.pdb
+D:\visualtarea\Ejercicios01Practico02\Ejercicios01Practico02\obj\Debug\net5.0\Ejercicios01Practico02.dll
+D:\visualtarea\Ejercicios01Practico02\Ejercicios01Practico02\obj\Debug\net5.0\ref\Ejercicios01Practico02.dll
+D:\visualtarea\Ejercicios01Practico02\Ejercicios01Practico02\obj\Debug\net5.0\Ejercicios01Practico02.pdb
+D:\visualtarea\Ejercicios01Practico02\Ejercicios01Practico02\obj\Debug\net5.0\Ejercicios01Practico02.genruntimeconfig.cache
